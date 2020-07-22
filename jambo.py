@@ -16,10 +16,5 @@ engine.say("Meu nome é Alice Ribeiro Diniz ")
 engine.runAndWait()
 engine.stop()
 
-engine.say('My current speaking rate is ' + str(rate))
-engine.runAndWait()
-engine.stop()
-
-
 
 
